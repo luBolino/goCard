@@ -1,10 +1,6 @@
 # goCard
 
 
-## Endereço de Deploy - GitHub Pages
-
-
-
 ## Protótipo
 
 
